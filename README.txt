@@ -1,7 +1,7 @@
 ================================================================
   LICENSE PLATE DEBLURRING — DATASET README
 ================================================================
-To Download the dataset: https://drive.google.com/file/d/1nzfTThDNVR7hkV-m-RbVc858thfMedev/view?usp=sharing
+
 
 OVERVIEW
 --------
